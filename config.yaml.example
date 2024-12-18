@@ -1,9 +1,9 @@
-app_logo: https://i.imgur.com/qXuAK9O.png
-app_name: Hypixel
+app_logo: https://imgs.search.brave.com/PHIRDEbjFhntV_Kbf_KdomVNifU36_T_Mkq7sMKBmWA/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YS5pc3RvY2twaG90/by5jb20vaWQvNjI2/NDY0MTU4L3Bob3Rv/L2NhdC13aXRoLW9w/ZW4tbW91dGguanBn/P3M9NjEyeDYxMiZ3/PTAmaz0yMCZjPVFy/OURDVmt3S21fZHpm/amtlTjVmb0NCcDdj/M0VmQkZfaTJBMGV0/WWlKT0E9
+app_name: Cat ban track
 app_url: https://kwayservices.top
 app_version: 0.2
 bot_prefix: .
-bot_token: 
-dev_guild_id: 
+bot_token: cbfa6ce0dd0faa3c864aa91e5fab2fdd6a557fb2834bc4684103198d4fbfad0e
+dev_guild_id: https://discord.gg/Zfqhxp3u
 log_file: hypixel.log
 logs_channel: 
